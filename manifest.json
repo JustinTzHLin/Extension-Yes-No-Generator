@@ -6,6 +6,7 @@
     "author": "Allison & Justin",
     "action": {
         "default_popup": "index.html",
-        "default_title": "Testing Extension"
+        "default_title": "Testing Extension",
+        "default_icon": "img/icon_yes_no.png"
     }
 }

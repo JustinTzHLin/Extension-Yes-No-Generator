@@ -7,7 +7,6 @@ body {
 }
 
 input {
-    position: absolute;
     width: 400px;
     height: 30px;
     font-size: 15px;
