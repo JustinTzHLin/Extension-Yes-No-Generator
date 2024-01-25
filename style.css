@@ -1,0 +1,42 @@
+body {
+    font-family: "Georgia", serif;
+    width: 500px;
+    height: 570px;
+    font-weight: 600;
+    text-align: center;
+}
+
+input {
+    width: 400px;
+    height: 30px;
+    font-size: 15px;
+}
+
+img {
+    position: absolute;
+    width: 400px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -36%);
+}
+
+.answer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    font-size: 150px;
+    color: red;
+}
+
+#yes {
+    color: white;
+}
+
+#no {
+    color: white;
+}
+
+img:hover, .answer:hover {
+    cursor: pointer;
+}

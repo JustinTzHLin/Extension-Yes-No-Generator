@@ -1,0 +1,11 @@
+{
+    "name": "Answers from the Universe",
+    "version": "1.1.0",
+    "description": "Provide Answer for Any Yes/No Question",
+    "manifest_version": 3,
+    "author": "Allison & Justin",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Testing Extension"
+    }
+}
