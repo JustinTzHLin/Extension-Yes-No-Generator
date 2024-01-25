@@ -4,6 +4,8 @@ body {
     height: 570px;
     font-weight: 600;
     text-align: center;
+    color: white;
+    background-color: black;
 }
 
 input {
