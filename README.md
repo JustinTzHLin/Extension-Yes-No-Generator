@@ -1,8 +1,8 @@
 # Yes/No Generator
-Yes/No Generator is an extension that can provide answers for every yes/no questions in the universe.
+Yes/No Generator is an extension that can provide answers for every yes/no question in the universe.
 
 ## Installation
-Users can either choose to upload the extension to your browser, or add it to your browser from the chrome web store
+Users can either choose to upload the extension to your browser, or add it to your browser from the Chrome Web Store.
 
 ## Upload
 1. Download the files to an unique folder in your computer
